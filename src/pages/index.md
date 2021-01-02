@@ -18,7 +18,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: blue
       background_image: images/emerson1.jpeg
       background_image_opacity: 50
       background_image_size: auto
