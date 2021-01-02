@@ -20,7 +20,7 @@ sections:
     background:
       background_color: gray
       background_image: images/emerson1.jpeg
-      background_image_opacity: 20
+      background_image_opacity: 80
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
